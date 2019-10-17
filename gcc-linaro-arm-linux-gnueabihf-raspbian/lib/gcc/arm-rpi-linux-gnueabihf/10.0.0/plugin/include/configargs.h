@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/raffy/projects/rpi-tools/.build/arm-rpi-linux-gnueabihf/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=arm-rpi-linux-gnueabihf --prefix=/home/raffy/x-tools/arm-rpi-linux-gnueabihf --with-sysroot=/home/raffy/x-tools/arm-rpi-linux-gnueabihf/arm-rpi-linux-gnueabihf/sysroot --enable-languages=c,c++ --with-cpu=cortex-a7 --with-float=hard --with-pkgversion='crosstool-NG 1.24.0.37-3f461da - linaro-32bit' --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/home/raffy/projects/rpi-tools/.build/arm-rpi-linux-gnueabihf/buildtools --with-mpfr=/home/raffy/projects/rpi-tools/.build/arm-rpi-linux-gnueabihf/buildtools --with-mpc=/home/raffy/projects/rpi-tools/.build/arm-rpi-linux-gnueabihf/buildtools --with-isl=/home/raffy/projects/rpi-tools/.build/arm-rpi-linux-gnueabihf/buildtools --enable-lto --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-threads=posix --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/home/raffy/x-tools/arm-rpi-linux-gnueabihf/arm-rpi-linux-gnueabihf/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "cortex-a7" }, { "float", "hard" }, { "tls", "gnu" } };
