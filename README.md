@@ -7,7 +7,7 @@ Tuple Format:
     - Kernel
     - System
 
-32-bit
+32-bit (gcc-linaro-arm-linux-gnueabihf-raspbian)
 
 ```
         [l..X]   arm-rpi-linux-gnueabihf
@@ -21,7 +21,7 @@ Tuple Format:
             Companion tools : autoconf-2.69 automake-1.16.1 libtool-2.4.6 m4-1.4.18 make-4.2.1
 ```
 
-64-bit
+64-bit (gcc-linaro-arm-linux-gnueabihf-raspbian-x64)
 
 ```
 
