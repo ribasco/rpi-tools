@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/home/raffy/projects/rpi-tools/.build/aarch64-rpi-linux-gnu/src/gcc/configure --build=x86_64-build_pc-linux-gnu --host=x86_64-build_pc-linux-gnu --target=aarch64-rpi-linux-gnu --prefix=/home/raffy/x-tools/aarch64-rpi-linux-gnu --with-sysroot=/home/raffy/x-tools/aarch64-rpi-linux-gnu/aarch64-rpi-linux-gnu/sysroot --enable-languages=c,c++ --with-pkgversion='crosstool-NG 1.24.0.37-3f461da - linaro-64bit' --enable-__cxa_atexit --disable-libmudflap --disable-libgomp --disable-libssp --disable-libquadmath --disable-libquadmath-support --disable-libsanitizer --disable-libmpx --with-gmp=/home/raffy/projects/rpi-tools/.build/aarch64-rpi-linux-gnu/buildtools --with-mpfr=/home/raffy/projects/rpi-tools/.build/aarch64-rpi-linux-gnu/buildtools --with-mpc=/home/raffy/projects/rpi-tools/.build/aarch64-rpi-linux-gnu/buildtools --with-isl=/home/raffy/projects/rpi-tools/.build/aarch64-rpi-linux-gnu/buildtools --enable-lto --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-threads=posix --enable-target-optspace --enable-plugin --enable-gold --disable-nls --disable-multilib --with-local-prefix=/home/raffy/x-tools/aarch64-rpi-linux-gnu/aarch64-rpi-linux-gnu/sysroot --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { NULL, NULL} };
